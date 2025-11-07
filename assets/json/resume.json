@@ -1,60 +1,113 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "David Kim",
+    "label": "Phd Candidate",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
+    "email": "dk331@duke.edu",
+    "phone": "",
     "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "Researching Deep Learning in Medical Imaging.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "",
+      "city": "Raleigh",
       "countryCode": "US",
-      "region": "California"
+      "region": "NC"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Linkedin",
+        "username": "davkime",
+        "url": "https://www.linkedin.com/in/davkime/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "CELLARITY",
+      "location": "Boston, MA",
+      "position": "Software Engineer",
+      "url": "",
+      "startDate": "2021-06-01",
+      "endDate": "2023-12-01",
+      "summary": "Migrated company data from Benchling to Microsoft Sharepoint. Created data visualizations for gene embeddings. Developed API for model inference. Maintained web scraper for medical journals. Deploy chemistry ML models on AWS servers. Assist in Science publication through model retraining, data clearning, benchmarking, and paper reproduction.",
+      "highlights": [
+        "Python",
+        "JavaScript",
+        "Postgres",
+        "MongoDB",
+        "SQL",
+        "AWS",
+        "pytest",
+        "Benchling",
+        "Dotmatics",
+        "Microsoft Graph API",
+        "React",
+        "Apache Echarts",
+        "FastAPI",
+        "Docker",
+        "Hasura",
+        "BentoML",
+        "Weights and Biases",
+        "Pytorch",
+        "Pandas"
+      ]
+    },
+    {
+      "name": "SANDIA NATIONAL LABS",
+      "location": "Albuquerque, NM",
+      "position": "Software Developer",
+      "url": "",
+      "startDate": "2019-12-01",
+      "endDate": "2021-01-01",
+      "summary": "Developed and maintained quality management service applications for the NNSA through feature development, bug fixing, and web server migration.",
+      "highlights": [
+        "SQL",
+        "Java",
+        "Spring"
+      ]
+    },
+    {
+      "name": "PROJECT ECHO",
+      "location": "Albuquerque, NM",
+      "position": "Front End Developer",
+      "url": "",
+      "startDate": "2016-09-01",
+      "endDate": "2019-09-01",
+      "summary": "Front end developer for a telemedicine network application.",
+      "highlights": [
+        "Angular",
+        "Angular Material",
+        "NgRx",
+        "Loopback",
+        "MongoDB",
+        "SCSS",
+        "Node"
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "The School of Hope",
+      "location": "Nihal Vihar, India",
+      "position": "School Teacher",
+      "url": "",
+      "startDate": "2011-06-01",
+      "endDate": "2011-08-01",
+      "summary": "Taught english, mathematics, and computer skills to primary and high schoo students.",
+      "highlights": [""]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Duke University",
+      "location": "Durham, NC",
+      "url": "",
+      "area": "Deep Learning in Medical Imaging",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
+      "startDate": "2024-01-01",
+      "endDate": "",
+      "score": "",
       "courses": ["Theory of Relativity"]
     }
   ],
